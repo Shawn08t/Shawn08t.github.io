@@ -29,7 +29,7 @@
           build:
             runs-on: ubuntu-latest
             env:
-              HUGO_VERSION: 0.120.4 # 指定一个较新的Hugo版本，或者你正在使用的版本
+              HUGO_VERSION: 0.126.1 # 指定一个较新的Hugo版本，或者你正在使用的版本
             steps:
               - name: Install Hugo CLI
                 run: |
