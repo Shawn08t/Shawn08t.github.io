@@ -1,4 +1,4 @@
-baseURL = "https://Shawn08t.github.io/" 
+baseURL: "https://Shawn08t.github.io/" 
 languageCode: en-us
 title: Shaw's Blog
 theme: "PaperMod"
